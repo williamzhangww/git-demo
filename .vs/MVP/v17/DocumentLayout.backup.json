@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\willi\\MVP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\willi\\mvp\\assets\\scripts\\appearinfrontofcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\appearinfrontofcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3FA6E63-F102-AA35-6DD1-B1FDE7527F3E}|Assembly-CSharp.csproj|c:\\users\\willi\\mvp\\assets\\temperaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FA6E63-F102-AA35-6DD1-B1FDE7527F3E}|Assembly-CSharp.csproj|solutionrelative:assets\\temperaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\willi\\MVP\\Assets\\Scripts\\AppearInFrontOfCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AppearInFrontOfCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TemperatureController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\MVP\\Assets\\TemperatureController.cs",
+              "RelativeDocumentMoniker": "Assets\\TemperatureController.cs",
+              "ToolTip": "C:\\Users\\willi\\MVP\\Assets\\TemperatureController.cs",
+              "RelativeToolTip": "Assets\\TemperatureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:52:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppearInFrontOfCamera.cs",
               "DocumentMoniker": "C:\\Users\\willi\\MVP\\Assets\\Scripts\\AppearInFrontOfCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AppearInFrontOfCamera.cs",
               "ToolTip": "C:\\Users\\willi\\MVP\\Assets\\Scripts\\AppearInFrontOfCamera.cs",
               "RelativeToolTip": "Assets\\Scripts\\AppearInFrontOfCamera.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T10:28:29.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T10:28:29.721Z"
             }
           ]
         }
