@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 87035271}
   - component: {fileID: 87035273}
   - component: {fileID: 87035272}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TempUnit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -525,7 +525,8 @@ GameObject:
   - component: {fileID: 228114495}
   - component: {fileID: 228114494}
   - component: {fileID: 228114493}
-  m_Layer: 0
+  - component: {fileID: 228114496}
+  m_Layer: 5
   m_Name: DecreaseButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -646,6 +647,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 228114491}
   m_CullTransparentMesh: 1
+--- !u!65 &228114496
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 228114491}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 30, y: 30, z: 0.01}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &336063030
 GameObject:
   m_ObjectHideFlags: 0
@@ -657,7 +679,7 @@ GameObject:
   - component: {fileID: 336063031}
   - component: {fileID: 336063033}
   - component: {fileID: 336063032}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1267,7 +1289,7 @@ GameObject:
   - component: {fileID: 980161854}
   - component: {fileID: 980161856}
   - component: {fileID: 980161855}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1480,7 +1502,7 @@ GameObject:
   - component: {fileID: 1130621208}
   - component: {fileID: 1130621207}
   - component: {fileID: 1130621210}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TemperatureDisplay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1561,7 +1583,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 2
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 219220112}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -1879,7 +1901,7 @@ GameObject:
   - component: {fileID: 1323473924}
   - component: {fileID: 1323473926}
   - component: {fileID: 1323473925}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TempValue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2404,7 +2426,8 @@ GameObject:
   - component: {fileID: 1605316279}
   - component: {fileID: 1605316278}
   - component: {fileID: 1605316277}
-  m_Layer: 0
+  - component: {fileID: 1605316280}
+  m_Layer: 5
   m_Name: IncreaseButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2525,6 +2548,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1605316275}
   m_CullTransparentMesh: 1
+--- !u!65 &1605316280
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1605316275}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 30, y: 30, z: 0.01}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1685583771
 GameObject:
   m_ObjectHideFlags: 0
@@ -2567,7 +2611,7 @@ GameObject:
   - component: {fileID: 1696565684}
   - component: {fileID: 1696565686}
   - component: {fileID: 1696565685}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
